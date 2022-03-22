@@ -2,7 +2,7 @@
 atividade de um curso
 
 
-foi uma atividade na sala de aula, esse projeto registrar os dados do alunos, professor. Tábem pode modificar e excluir os dados.
+foi uma atividade na sala de aula, esse projeto registrar os dados do alunos, professor. também pode modificar e excluir os dados.
 
 esse projeto está como orientação a objetos
 
